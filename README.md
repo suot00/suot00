@@ -1,5 +1,4 @@
 ### Hi there 👋
-### a
 
 <!--
 **suot00/suot00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
